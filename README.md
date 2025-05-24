@@ -2,52 +2,46 @@
 <h3 align="center">Freelancer in Coding, AI, Design, and Data Analysis</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+projects+with+AI+%26+code;Freelancer+in+Web+%2F+Data+%2F+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Building+AI+%2F+Web+%2F+Design+Projects;Let's+code+something+amazing!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🎮 Mini Game Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300px" alt="code typing" />
+  <br/>
+  <em>Simple Game Demo Built with JavaScript</em>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💼 I work as a **Freelancer** in:
-  - 🤖 AI & Machine Learning
-  - 🖥️ Web Development
-  - 📊 Data Analysis
-  - 🎨 UI/UX & Design
-
-- 🔨 Projects I've built:
-  - 📅 **[Absen Karyawan Web](https://github.com/Admin-Dekstop/absen-karyawan-web)** — sistem absensi online untuk karyawan
-  - 📢 **[Pengumuman Kelulusan SMP 2 Ampana Kota](https://github.com/Admin-Dekstop/kelulusan-smp2-ampana)** — web pengumuman kelulusan siswa
+- 💼 Freelancer in:
+  - 🤖 AI & Machine Learning (Python)
+  - 🌐 Web Development (HTML, JS, React, PHP)
+  - 📊 Data Analysis (Excel, Pandas)
+  - 🎨 UI/UX Design (Figma, Canva)
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Admin-Dekstop&show_icons=true&theme=radical" alt="Fandy's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Admin-Dekstop&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admin-Dekstop&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 🔨 Project Highlights
+- 📅 [Absen Karyawan Web](https://github.com/Admin-Dekstop/absen-karyawan-web)
+- 📢 [Kelulusan SMP 2 Ampana](https://github.com/Admin-Dekstop/kelulusan-smp2-ampana)  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://admin-dekstop.github.io/Infokelulusan_Smp2ak/)
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/AI-Python-informational?style=flat&logo=python&color=3776AB" />
-  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-informational?style=flat&logo=pandas&color=150458" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,figma,vscode,github" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-DarkRed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Admin-Dekstop"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### 🧠 Language & Tools I Use
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave3.svg" width="100%" height="150px"/>
-
+```txt
+💡 Languages   : JavaScript, Python, PHP, SQL
+🛠 Tools       : VSCode, Figma, Canva, Git
+📊 Data Tools  : Pandas, Excel, Google Sheets
